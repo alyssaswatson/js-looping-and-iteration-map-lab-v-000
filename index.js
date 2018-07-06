@@ -5,6 +5,6 @@ function lowerCaseDrivers (list) {
   });
 }
 
-function nameToAttributes() {
-  
+function nameToAttributes(list) {
+
 }
